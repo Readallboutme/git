@@ -1,0 +1,8 @@
+{
+    "workbench.preferredDarkColorTheme": "GitHub Light Default",
+    "files.exclude": {
+        "**/Thumbs.db": false
+    },
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "workbench.reduceMotion": "on"
+}
